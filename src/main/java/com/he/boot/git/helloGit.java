@@ -7,5 +7,6 @@ public class helloGit {
         System.out.println("hello git2");
         System.out.println("hello git2 test");
         System.out.println("hello git2 test new");
+        System.out.println("hello git2 test commit2");
     }
 }
